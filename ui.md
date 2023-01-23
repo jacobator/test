@@ -4,6 +4,5 @@ main2
 
 hey there
 new line modified
-new line 4
 new line 3
 new line 1
