@@ -1,4 +1,4 @@
-hello main 2
+ccc
 
 main2
 
@@ -6,4 +6,4 @@ new line 4
 
 hmm
 
-new line 42
+new line 4
