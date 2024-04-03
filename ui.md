@@ -2,7 +2,13 @@ rgb
 hello main 222x12
 kek
 1
-[hello](./wow.md)
+
+
+
+[hello](./broken.md)
+
+
+
 main
 
 main2
