@@ -2,6 +2,6 @@
 
 Hello
 update (second)
-[hello](./wow.md)
+
 
 hello
